@@ -1,0 +1,94 @@
+{
+  "players": [
+    {
+      "name": "Magnus Carlsen",
+      "score": 0,
+      "classicalWins": 1,
+      "classicalDraws": 2,
+      "classicalLosses": 0,
+      "armageddonWins": 2,
+      "armageddonLosses": 0
+    },
+    {
+      "name": "Levon Aronian",
+      "score": 0,
+      "classicalWins": 1,
+      "classicalDraws": 2,
+      "classicalLosses": 0,
+      "armageddonWins": 1,
+      "armageddonLosses": 1
+    },
+    {
+      "name": "Alexander Grischuk",
+      "score": 0,
+      "classicalWins": 0,
+      "classicalDraws": 2,
+      "classicalLosses": 1,
+      "armageddonWins": 0,
+      "armageddonLosses": 2
+    },
+    {
+      "name": "Ding Liren",
+      "score": 0,
+      "classicalWins": 1,
+      "classicalDraws": 2,
+      "classicalLosses": 0,
+      "armageddonWins": 1,
+      "armageddonLosses": 1
+    },
+    {
+      "name": "Fabiano Caruana",
+      "score": 0,
+      "classicalWins": 1,
+      "classicalDraws": 1,
+      "classicalLosses": 1,
+      "armageddonWins": 0,
+      "armageddonLosses": 0
+    },
+    {
+      "name": "Viswanathan Anand",
+      "score": 0,
+      "classicalWins": 0,
+      "classicalDraws": 2,
+      "classicalLosses": 1,
+      "armageddonWins": 1,
+      "armageddonLosses": 1
+    },
+    {
+      "name": "Maxime Vachier-Lagrave",
+      "score": 0,
+      "classicalWins": 0,
+      "classicalDraws": 2,
+      "classicalLosses": 1,
+      "armageddonWins": 0,
+      "armageddonLosses": 2
+    },
+    {
+      "name": "Wesley So",
+      "score": 0,
+      "classicalWins": 1,
+      "classicalDraws": 2,
+      "classicalLosses": 0,
+      "armageddonWins": 1,
+      "armageddonLosses": 1
+    },
+    {
+      "name": "Yu Yangyi",
+      "score": 0,
+      "classicalWins": 0,
+      "classicalDraws": 2,
+      "classicalLosses": 1,
+      "armageddonWins": 2,
+      "armageddonLosses": 0
+    },
+    {
+      "name": "Shakhriyar Mamedyarov",
+      "score": 0,
+      "classicalWins": 1,
+      "classicalDraws": 1,
+      "classicalLosses": 1,
+      "armageddonWins": 1,
+      "armageddonLosses": 0
+    }
+  ]
+}
