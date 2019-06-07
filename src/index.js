@@ -92,7 +92,7 @@ export class App extends React.Component {
           <label className="col-sm-1 col-form-label"><b>Preset</b></label>
           <div className="col-sm-4">
             <select className="form-control mb-2 mr-sm-2" onChange={this.handleSelectChange}>
-              <option selected value="nc">Norway Chess</option>
+              <option value="nc">Norway Chess</option>
               <option value="regular">Regular</option>
               <option value="hockey">Hockey</option>
               <option value="4210">4-2-1-0</option>

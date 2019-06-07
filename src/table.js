@@ -31,7 +31,7 @@ class Table extends React.Component {
         </thead>
         <tbody>
           {this.props.players.map((item, key) => (
-            <TableRow row={item} rowNumber={key + 1} />
+            <TableRow key={key} row={item} rowNumber={key + 1} />
           ))}
         </tbody>
       </table>
