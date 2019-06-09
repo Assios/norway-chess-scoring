@@ -64,7 +64,7 @@ export class App extends React.Component {
 
     return (
       <div className="wrapper">
-        <h3>Norway Chess 2019 <span className="badge badge-secondary">Updated after round 3</span></h3>
+        <h3>Norway Chess 2019 <span className="badge badge-secondary">Updated after round 4</span></h3>
         <div className="form-inline">
           <div className="input-group mb-4 mr-sm-4">
             <div className="input-group-prepend">
