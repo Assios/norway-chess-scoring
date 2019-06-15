@@ -3,92 +3,92 @@
     {
       "name": "Magnus Carlsen",
       "score": 0,
-      "classicalWins": 1,
-      "classicalDraws": 5,
+      "classicalWins": 2,
+      "classicalDraws": 7,
       "classicalLosses": 0,
-      "armageddonWins": 5,
-      "armageddonLosses": 0
+      "armageddonWins": 6,
+      "armageddonLosses": 1
     },
     {
       "name": "Levon Aronian",
       "score": 0,
       "classicalWins": 1,
-      "classicalDraws": 5,
-      "classicalLosses": 0,
-      "armageddonWins": 2,
+      "classicalDraws": 7,
+      "classicalLosses": 1,
+      "armageddonWins": 4,
       "armageddonLosses": 3
     },
     {
       "name": "Alexander Grischuk",
       "score": 0,
       "classicalWins": 0,
-      "classicalDraws": 4,
+      "classicalDraws": 7,
       "classicalLosses": 2,
-      "armageddonWins": 1,
-      "armageddonLosses": 3
+      "armageddonWins": 2,
+      "armageddonLosses": 5
     },
     {
       "name": "Ding Liren",
       "score": 0,
-      "classicalWins": 1,
-      "classicalDraws": 5,
+      "classicalWins": 2,
+      "classicalDraws": 7,
       "classicalLosses": 0,
-      "armageddonWins": 1,
-      "armageddonLosses": 4
+      "armageddonWins": 2,
+      "armageddonLosses": 5
     },
     {
       "name": "Fabiano Caruana",
       "score": 0,
-      "classicalWins": 1,
-      "classicalDraws": 4,
+      "classicalWins": 2,
+      "classicalDraws": 6,
       "classicalLosses": 1,
-      "armageddonWins": 1,
+      "armageddonWins": 3,
       "armageddonLosses": 3
     },
     {
       "name": "Viswanathan Anand",
       "score": 0,
       "classicalWins": 0,
-      "classicalDraws": 5,
+      "classicalDraws": 8,
       "classicalLosses": 1,
-      "armageddonWins": 3,
-      "armageddonLosses": 2
+      "armageddonWins": 4,
+      "armageddonLosses": 4
     },
     {
       "name": "Maxime Vachier-Lagrave",
       "score": 0,
       "classicalWins": 0,
-      "classicalDraws": 5,
+      "classicalDraws": 8,
       "classicalLosses": 1,
-      "armageddonWins": 2,
-      "armageddonLosses": 3
+      "armageddonWins": 4,
+      "armageddonLosses": 4
     },
     {
       "name": "Wesley So",
       "score": 0,
       "classicalWins": 1,
-      "classicalDraws": 5,
+      "classicalDraws": 8,
       "classicalLosses": 0,
-      "armageddonWins": 2,
-      "armageddonLosses": 3
+      "armageddonWins": 4,
+      "armageddonLosses": 4
     },
     {
       "name": "Yu Yangyi",
       "score": 0,
-      "classicalWins": 1,
-      "classicalDraws": 4,
-      "classicalLosses": 1,
+      "classicalWins": 2,
+      "classicalDraws": 5,
+      "classicalLosses": 2,
       "armageddonWins": 4,
-      "armageddonLosses": 0
+      "armageddonLosses": 1
     },
     {
       "name": "Shakhriyar Mamedyarov",
       "score": 0,
       "classicalWins": 1,
-      "classicalDraws": 4,
-      "classicalLosses": 1,
+      "classicalDraws": 5,
+      "classicalLosses": 3,
       "armageddonWins": 1,
-      "armageddonLosses": 3
+      "armageddonLosses": 4
     }
   ]
 }
